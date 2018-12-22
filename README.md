@@ -93,6 +93,8 @@ See the example code, iOS and macOS platform downloaders use the same API.
 
 Smile - @ixueadev on GitHub, Email is ixueadev@163.com, See more ixuea([http://www.ixuea.com][100])
 
+iOS & macOS QQ development group: 965841894.
+
 [10]: https://github.com/ixuea/CocoaDownloader/issues/new
 [11]: https://github.com/ixuea/CocoaDownloader/blob/master/iOSDemo/iOSDemo/Controller/SampleController.m
 [12]: http://a.ixuea.com/O

@@ -93,6 +93,8 @@ NSTimeInterval currentTimeMillis=[date timeIntervalSince1970];
 
 Smile - @ixueadev on GitHub, Email is ixueadev@163.com, See more ixuea([http://www.ixuea.com][100])
 
+iOS & macOS开发交流群QQ群: 965841894.
+
 [10]: https://github.com/ixuea/CocoaDownloader/issues/new
 [11]: https://github.com/ixuea/CocoaDownloader/blob/master/iOSDemo/iOSDemo/Controller/SampleController.m
 [12]: http://a.ixuea.com/O
